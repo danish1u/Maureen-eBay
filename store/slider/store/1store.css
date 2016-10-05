@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Oswald);
+@import url("http://fonts.googleapis.com/css?family=Oswald");
 @font-face {
         font-family: "Ubuntu Condensed";
         src: url('font/41015626-Ubuntu-C.eot');
@@ -219,7 +219,7 @@ a.linkopac:hover img {
 	position: absolute;
 	padding: 0;
 	margin: 0;
-	background-image: url(images/promo.png);
+	background-image: url("http://www.pstnow.com/closethedealonline/store/images/promo.png");
 	background-repeat: no-repeat;
 	background-position: center center;
 	left: 0px;
@@ -396,7 +396,7 @@ a.linkopac:hover img {
 	height: 31px;
 	margin: 0px;
 	float: right;
-	background-image: url(images/search_btn.png);
+	background-image: url("http://www.pstnow.com/closethedealonline/store/images/search_btn.png");
 	background-repeat: no-repeat;
 	background-position: left top;
 	display: block;
@@ -411,7 +411,7 @@ a.linkopac:hover img {
 	height: 31px;
 	margin: 0px;
 	float: right;
-	background-image: url(images/search_btn.png);
+	background-image: url("http://www.pstnow.com/closethedealonline/store/images/search_btn.png");
 	background-position: right bottom;
 	background-repeat: no-repeat;
 }
