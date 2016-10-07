@@ -7,7 +7,7 @@ initSlider({
 
 		{image: 'https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/Mens%20banner.png', link: '#'},
 		{image: 'https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/banner%20dved%202.png', link: '#'},
-		{image: 'https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/2%20banner-1.png', link: '#'}
-
+		{image: 'https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/2%20banner-1.png', link: '#'},
+	        {image: 'https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/banner%20dved%202.png', link: '#'}
 	]
 });
