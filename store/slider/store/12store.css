@@ -11,6 +11,11 @@ body {
 	margin-bottom: 0px;
 	margin-left: auto;
 }
+.li td.prices {
+    width: 98px;
+    text-align: center;
+    margin-top: 27px;
+}
 a.linkopac img {
 	filter:alpha(opacity=100%);
 	-moz-opacity: 1.0;
