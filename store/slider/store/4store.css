@@ -72,7 +72,7 @@ a.linkopac:hover img {
 	margin-right: auto;
 	margin-bottom: 0px;
 	margin-left: auto;
-	background-image: url(images/main_bg.png);
+	background-image: url("https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/main_bg.png");
 	background-repeat: repeat;
 	background-position: center top;
 }
@@ -660,7 +660,7 @@ a.linkopac:hover img {
 #pst-newsletter input.btn-signup {
 	margin: 0px;
 	float: right;
-	background-image: url(images/signup_btn.png);
+	background-image: url("https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/signup_btn.png");
 	display: block;
 	border: none 0px;
 	cursor: pointer;
@@ -677,7 +677,7 @@ a.linkopac:hover img {
 }
 #pst-newsletter input.btn-signup:hover {
 	margin: 0px;
-	background-image: url(images/signup_btn.png);
+	background-image: url("https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/signup_btn.png");
 	text-align: center;
 	text-indent: 15px;
 	background-position: center bottom;
@@ -1352,7 +1352,7 @@ display: none;
 text-align: center;
 }
 .dynpg .prev {
-	background-image:url(images/prev.png);
+	background-image:url("https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/store/prev.png");
 	background-repeat:no-repeat;
 	background-position:left center;
 }
@@ -1363,7 +1363,7 @@ text-align: center;
 	color: #404042 !important;
 }
 .dynpg .next {
-	background-image:url(images/next.png);
+	background-image:url("https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/store/next.png");
 	background-repeat:no-repeat;
 	background-position:right center;
 }
@@ -1382,7 +1382,7 @@ text-align: center;
 	height:32px;
 	background-color:transparent;
 	border:none;
-	background-image:url(images/go.png);
+	background-image:url("https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/store/go.png");
 	background-repeat:no-repeat;
 	background-position:center top;
 	color:transparent !important;
