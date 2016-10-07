@@ -12,7 +12,7 @@ jQuery(document).ready(function(){
 		if($("#LeftPanel .lcat").length > 0) {
 			$("#pst-categories").html($("#LeftPanel .lcat").html());
 		}
-		$("#pst-categories ul[class=lev1]").find("li:last").addClass("pst-lastitem");
+		$("#pst-categories ul[class=lev2]").find("li:last").addClass("pst-lastitem");
 	}
 
 	//Search Box
