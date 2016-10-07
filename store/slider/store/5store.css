@@ -94,7 +94,7 @@ a.linkopac:hover img {
 	margin-right: auto;
 	margin-bottom: 0px;
 	margin-left: auto;
-	background-image: url(images/main-sep.png);
+	background-image: url("https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/store/main-sep.png");
 	background-repeat: repeat-y;
 	background-position: center top;
 }
