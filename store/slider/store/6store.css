@@ -553,7 +553,7 @@ a.linkopac:hover img {
 	text-indent: 24px;
 	padding: 0px;
 	line-height: 29px;
-	background-image: url(images/cat-arrow.jpg);
+	background-image: url("https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/store/cat-arrow.jpg");
 	background-repeat: no-repeat;
 	background-position: left center;
 	transition: all 0.3s ease-out;
@@ -571,7 +571,7 @@ a.linkopac:hover img {
 	text-indent: 30px;
 	padding: 0px;
 	line-height: 29px;
-	background-image: url(images/cat-arrow.jpg);
+	background-image: url("https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/store/cat-arrow.jpg");
 	background-repeat: no-repeat;
 	background-position: 6px center;
 	background-color:#FFF;
