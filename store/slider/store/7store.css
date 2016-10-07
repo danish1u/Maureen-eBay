@@ -446,6 +446,7 @@ a.linkopac:hover img {
 	border-bottom-style: none;
 	border-left-style: none;
 }
+
 #pst-categories ul.lev1 {
 	list-style-type: none;
 	width: 210px;
@@ -456,84 +457,6 @@ a.linkopac:hover img {
 	border: 0;
 }
 #pst-categories ul.lev1 li {
-	border: none;
-	line-height: 29px;
-	padding: 0px;
-	height: 29px;
-	width: 210px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 1px;
-	margin-left: 0px;
-}
-#pst-categories ul.lev1 li.pst-lastiteam {
-	margin: 0px;
-	padding: 0px;
-	background-image: none;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width:0;
-	border-left-width: 0px;
-	border-top-style: none;
-	border-right-style: none;
-	border-bottom-style: solid;
-	border-left-style: none;
-}
-#pst-categories ul.lev1 li a {
-	color: #FFFFFF;
-	font-family: "Ubuntu Condensed";
-	font-size: 15px;
-	font-weight: normal;
-	text-decoration: none;
-	display: block;
-	height: 29px;
-	margin: 0px;
-	text-indent: 13px;
-	padding: 0px;
-	line-height: 29px;
-	transition: all 0.3s ease-out;
-	background-color: #181818;
-}
-#pst-categories ul.lev1 li a:hover {
-	color: #000000;
-	font-family: "Ubuntu Condensed";
-	font-size: 15px;
-	font-weight: normal;
-	text-decoration: none;
-	display: block;
-	height: 29px;
-	margin: 0px;
-	text-indent: 18px;
-	padding: 0px;
-	line-height: 29px;
-	transition: all 0.3s ease-out;
-	background-color: #dddddd;
-}
-#pst-categories ul.lev1 li span {
-	color: #000000;
-	font-family: "Ubuntu Condensed";
-	font-size: 15px;
-	font-weight: normal;
-	text-decoration: none;
-	display: block;
-	height: 29px;
-	margin: 0px;
-	text-indent: 13px;
-	padding: 0px;
-	line-height: 29px;
-	transition: all 0.3s ease-out;
-	background-color: #dddddd;
-}
-#pst-categories ul.lev2 {
-	list-style-type: none;
-	width: 210px;
-	padding: 0px;
-	margin: 0;
-	left: auto;
-	right: auto;
-	border: 0;
-}
-#pst-categories ul.lev2 li {
 	line-height: 29px;
 	padding: 0px;
 	height: 29px;
@@ -541,7 +464,7 @@ a.linkopac:hover img {
 	margin: 0px;
 	border-bottom: 1px solid #eaeaea !important;
 }
-#pst-categories ul.lev2 li a {
+#pst-categories ul.lev1 li a {
 	color: #515151;
 	font-family: "Ubuntu Condensed";
 	font-size: 15px;
@@ -559,7 +482,7 @@ a.linkopac:hover img {
 	transition: all 0.3s ease-out;
 	background-color:#FFF;
 }
-#pst-categories ul.lev2 li a:hover {
+#pst-categories ul.lev1 li a:hover {
 	color: #fe0000;
 	font-family: "Ubuntu Condensed";
 	font-size: 15px;
@@ -576,7 +499,7 @@ a.linkopac:hover img {
 	background-position: 6px center;
 	background-color:#FFF;
 }
-#pst-categories ul.lev2 li span {
+#pst-categories ul.lev1 li span {
 	color: #fe0000;
 	font-family: "Ubuntu Condensed";
 	font-size: 15px;
@@ -588,7 +511,7 @@ a.linkopac:hover img {
 	text-indent: 24px;
 	padding: 0px;
 	line-height: 29px;
-	background-image: url(images/cat-arrow.jpg);
+	background-image: url("https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/store/cat-arrow.jpg");
 	background-repeat: no-repeat;
 	background-position: left center;
 	background-color:#FFF;
