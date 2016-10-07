@@ -1,14 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Oswald);
-@font-face {
-        font-family: "Ubuntu Condensed";
-        src: url('font/41015626-Ubuntu-C.eot');
-        src: url('font/41015626-Ubuntu-C.eot?#iefix') format('embedded-opentype'),
-        url('font/41015626-Ubuntu-C.svg#Ubuntu Condensed') format('svg'),
-        url('font/41015626-Ubuntu-C.woff') format('woff'),
-        url('font/41015626-Ubuntu-C.ttf') format('truetype');
-        font-weight: normal;
-        font-style: normal;
-    }
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">;
 body {
 	padding: 0px;
 	width: 100%;
@@ -227,7 +217,7 @@ a.linkopac:hover img {
 }
 #pst-welcome{
 	color: #626262;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
 	line-height: 18px;
 	font-weight: normal;
@@ -289,7 +279,7 @@ a.linkopac:hover img {
 #pst-menu ul li a {
 	color: #ffffff;
 	display: block;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	text-decoration: blink;
 	float: left;
@@ -340,7 +330,7 @@ a.linkopac:hover img {
 }
 #pst-search #pst-input .v4sbox {
 	color: #5a5a5a;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
 	width: 250px;
 	line-height: 29px;
@@ -375,7 +365,7 @@ a.linkopac:hover img {
 }
 #pst-search #pst-title {
 	color: #5a5a5a;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
 	position: absolute;
 	font-weight: normal;
@@ -466,7 +456,7 @@ a.linkopac:hover img {
 }
 #pst-categories ul.lev1 li a {
 	color: #515151;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 	font-weight: normal;
 	text-decoration: none;
@@ -484,7 +474,7 @@ a.linkopac:hover img {
 }
 #pst-categories ul.lev1 li a:hover {
 	color: #fe0000;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 	font-weight: normal;
 	text-decoration: none;
@@ -501,7 +491,7 @@ a.linkopac:hover img {
 }
 #pst-categories ul.lev1 li span {
 	color: #fe0000;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 	font-weight: normal;
 	text-decoration: none;
@@ -542,7 +532,7 @@ a.linkopac:hover img {
 }
 #pst-newsletter #pst-text {
 	color: #575757;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	text-align: left;
 	font-size: 15px;
 	position: relative;
@@ -663,7 +653,7 @@ a.linkopac:hover img {
 }
 #pst-left-cat ul li a {
 	color: #000000;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 17px;
 	font-weight: normal;
 	text-decoration: none;
@@ -678,7 +668,7 @@ a.linkopac:hover img {
 }
 #pst-left-cat ul li a:hover {
 	color: #FFFFFF;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 17px;
 	font-weight: normal;
 	text-decoration: none;
@@ -738,7 +728,7 @@ a.linkopac:hover img {
 	border-left-style: none;
 }
 #CentralArea td.r3_c a {
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	color: #181818;
 }
@@ -814,7 +804,7 @@ a.linkopac:hover img {
 /*---Right Column---<<END*/
 /*---Footer->START*/
 .elinks {
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	font-weight: normal;
 	color: #fe0000;
@@ -833,7 +823,7 @@ a.linkopac:hover img {
 }
 #pst-footer #pst-copy {
 	color: #595959;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	position: absolute;
 	font-weight: normal;
@@ -847,7 +837,7 @@ a.linkopac:hover img {
 }
 #pst-footer #pst-designer {
 	color: #595959;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	position: absolute;
 	font-weight: normal;
@@ -863,7 +853,7 @@ a.linkopac:hover img {
 #pst-footer a {
 	color: #595959;
 	text-decoration: none;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	font-weight: normal;
 	transition: all 0.3s ease-out;
@@ -902,13 +892,14 @@ a.linkopac:hover img {
 	margin: 0px;
 	text-align: left;
 	color: #595959;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
+  font-weight: bold;
 	height: 22px;
 	line-height: 22px;
 	font-weight: normal;
 	padding-top: 0px;
-	padding-right: 15px;
+	padding-right: 2px;
 	padding-bottom: 0;
 	padding-left: 15px;
 }
@@ -919,7 +910,7 @@ a.linkopac:hover img {
 	margin: 0px;
 	text-align: left;
 	color: #595959;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 	height: 22px;
 	line-height: 22px;
@@ -934,7 +925,7 @@ a.linkopac:hover img {
 	margin: 0px;
 	text-align: left;
 	color: #fe0000;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 	height: 22px;
 	line-height: 22px;
@@ -1045,7 +1036,7 @@ a.linkopac:hover img {
 	border-bottom-style: none;
 	border-left-style: none;
 	background-color: #dddddd;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 }
 .cmpBr {
 	background-color:transparent;
@@ -1095,7 +1086,7 @@ a.linkopac:hover img {
 	background-color: #FE0000;
     color: #FFFFFF;
     display: block;
-    font-family: "Ubuntu Condensed";
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-weight: normal;
     height: 23px;
@@ -1124,7 +1115,7 @@ span.pdmt .cur img {
 }
 .fpcc .countClass {
 	color: #fe0000;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size: medium;
 	font-weight: normal;
 }
@@ -1136,7 +1127,7 @@ div.itemseparator {
 	border: none 0px;
 }
 .fpcc span.keywordClass {
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-weight: bold;
 	color: #444444;
 	white-space: nowrap;
@@ -1157,7 +1148,7 @@ div.itemseparator {
 	text-decoration:none;
 }
 .fpcc .matchClass {
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	color: #444444;
 }
 
@@ -1204,7 +1195,7 @@ td#CentralArea div.v4stabl a {
 	padding-right: 10px;
 	padding-bottom: 2px;
 	color: #404042;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size:11px;
 	position:relative;
 	top:-25px;
@@ -1215,7 +1206,7 @@ td#CentralArea div.v4stabl a {
 }
 #v4-21 {
 	color: #000;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	font-size:11px;
 }
 #v4-17 img {
@@ -1247,7 +1238,7 @@ table.gallery div.clearFullDiv {
 }
 span.fshp {
     color: #181818;
-    font-family: "Ubuntu Condensed";
+    font-family: 'Open Sans', sans-serif;
     font-size: x-small;
     font-weight: bold;
     white-space: normal;
@@ -1265,7 +1256,7 @@ table.gallery table.fixed div.time2 {
 	margin: 35px 0 0 0;
 	text-align: center;
 	width: 210px;
-	font-family: "Ubuntu Condensed";
+	font-family: 'Open Sans', sans-serif;
 	color: #181818;
 }
 .iippl {
