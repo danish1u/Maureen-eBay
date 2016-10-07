@@ -60,7 +60,7 @@ html, body {
 	-ms-transition: opacity .1s ease-in-out;
 	-o-transition: opacity .1s ease-in-out;
 	z-index: 9999;
-	background-image: url(slider-arrow.png);
+	background-image: url("https://raw.githubusercontent.com/danish1u/Maureen-eBay/master/store/slider/slider-arrow.png");
 	background-repeat: no-repeat;
 	background-position: -42px 0px;
 }
