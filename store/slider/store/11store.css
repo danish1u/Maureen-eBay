@@ -287,9 +287,9 @@ a.linkopac:hover img {
 	height: 58px;
 	line-height: 58px;
 	padding-top: 0px;
-	padding-right: 21px;
+	padding-right: 19px;
 	padding-bottom: 0px;
-	padding-left: 18px;
+	padding-left: 14px;
 	margin-top: 0px;
 	margin-right: 1px;
 	margin-bottom: 0px;
@@ -336,7 +336,7 @@ a.linkopac:hover img {
 	line-height: 29px;
 	font-weight: normal;
 	margin: 0px;
-	height: 25px;
+	height: 29px;
 	background-color: transparent;
 	background-image: none;
 	padding-top: 0px;
@@ -1302,6 +1302,7 @@ text-align: center;
 	color:transparent !important;
 	position:relative;
 	bottom:-5px;
+	cursor:pointer
 }
 .dynpg span.pipe {
 	margin: 0 3px;
