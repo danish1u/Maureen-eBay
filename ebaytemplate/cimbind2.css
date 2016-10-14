@@ -94,8 +94,7 @@ tr.col-md-12 {
 }
 
 #pst-header * {
-    padding: 0px;
-    margin: 0px;
+
 }
 
 #pst-header img {
@@ -250,7 +249,7 @@ tr.col-md-12 {
     width: auto;
     float: right;
     right: 0px;
-    margin: 33px 0 0px 0;
+    margin: 15px 0px 0px 48px;
 }
 
 #pst-banner {
