@@ -1,14 +1,6 @@
 @import url('custompages.css');
-@import url(http://fonts.googleapis.com/css?family=Lato);
-@import url(http://fonts.googleapis.com/css?family=Ubuntu);
-
-body {
-margin: 0;
-      background: url(https://s-media-cache-ak0.pinimg.com/564x/93/e6/71/93e6712613254cdeabe078980f5b1818.jpg);
-    background-position: botoom;
-    background-repeat: repeat-x;
-    background-position: 54% 100.3%;
-}
+@import url("http://fonts.googleapis.com/css?family=Lato");
+@import url("http://fonts.googleapis.com/css?family=Ubuntu");
 /*---HEADER------>START*/
 .efusion-clear { clear: both; }
 .efusion-background {
