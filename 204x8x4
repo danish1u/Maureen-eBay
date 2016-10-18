@@ -1,0 +1,87 @@
+/*============ Basic Xsellx Gallery Styles 204,	slide +ttl +prc ==============*/
+/* fonts: 16,11,12,14		sizes: 96,90,6,6,2,0_0_6 */
+
+@import url("http://xsellx.com/xsellx/css/xsellx_commongallery.css");
+
+#xsellgallery_styler_204x8x3 				{ width:936px;  height:232px; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_header 	{ display:block; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_header span	{ width:896px; height:24px; overflow:hidden; font-size:16px; line-height:30px; /*forced*/}
+
+#xsellgallery_styler_204x8x3 div.xsellgallery_outline	{ width:896px; height:208px; margin-left:20px; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_inside 	{ width:896px; height:202px; margin: 0px 0px 6px 0px; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_cell 	{ width:112px; height:202px; }
+
+#xsellgallery_styler_204x8x3 div.xsellgallery_framelg 	{ width:108px; height:198px; margin:2px; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_thmlg 	{ width:96px;  height:96px;  margin:6px; }
+#xsellgallery_styler_204x8x3 img.xsellgallery_thmlg 	{ max-width:96px; max-height:96px; }
+
+#xsellgallery_styler_204x8x3 div.xsellgallery_framesm 	{ width:102px; height:192px; margin:5px; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_thmsm 	{ width:90px;  height:90px;  margin:6px; }
+#xsellgallery_styler_204x8x3 img.xsellgallery_thmsm 	{ max-width:90px; max-height:90px; }
+
+#xsellgallery_styler_204x8x3 div.xsellgallery_caption  { display:block; height:90px; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_caption .xsellgallery_itemttl { display:block; font-size:11px; line-height:14px; height:70px; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_caption .xsellgallery_itemprc { display:block; font-size:12px; line-height:15px; height:15px; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_caption .xsellgallery_itemend { display:none; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_caption .xsellgallery_itembuy { display:none; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_caption .xsellgallery_itembid { display:none; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_caption .xsellgallery_itemttl span { } /*item title*/
+#xsellgallery_styler_204x8x3 div.xsellgallery_caption .xsellgallery_itemprc span { display:none; } /*label*/
+
+#xsellgallery_styler_204x8x3 div.xsellgallery_footer  { display:none; }
+
+#xsellgallery_styler_204x8x3 div.xsellgallery_btnleft, 
+#xsellgallery_styler_204x8x3 div.xsellgallery_btnright  	 { display:block; width:20px; height:232px; text-align:center; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_btnleft   	 { right:100%; top:-24px; }
+#xsellgallery_styler_204x8x3 div.xsellgallery_btnright  	 { left:100%; top:-24px;  }
+#xsellgallery_styler_204x8x3 div.xsellgallery_btnleft span, 
+#xsellgallery_styler_204x8x3 div.xsellgallery_btnright span { left:-20px; top:86px;  }
+
+
+/* shadows */
+#xsellgallery_styler_204x8x3 div.xsellgallery_framelg, 
+#xsellgallery_styler_204x8x3 div.xsellgallery_framesm { 
+     -webkit-box-shadow:4px 4px 4px 0px rgba(0,0,0,0.4);
+        -moz-box-shadow:4px 4px 4px 0px rgba(0,0,0,0.4);
+             box-shadow:4px 4px 4px 0px rgba(0,0,0,0.4);
+	}
+/* rounds */
+#xsellgallery_styler_204x8x3 div.xsellgallery_framelg, 
+#xsellgallery_styler_204x8x3 div.xsellgallery_framesm { 
+     -webkit-border-radius:5px; 
+        -moz-border-radius:5px; 
+             border-radius:5px; 
+	}
+#xsellgallery_styler_204x8x3 img.xsellgallery_thmlg, 
+#xsellgallery_styler_204x8x3 img.xsellgallery_thmsm { 
+     -webkit-border-radius:2px; 
+        -moz-border-radius:2px; 
+             border-radius:2px; 
+	}
+#xsellgallery_styler_204x8x3 div.xsellgallery_btnleft { 
+     -webkit-border-radius:20px 0px 0px 20px; 
+        -moz-border-radius:20px 0px 0px 20px; 
+             border-radius:20px 0px 0px 20px; 
+	}
+#xsellgallery_styler_204x8x3 div.xsellgallery_btnright { 
+     -webkit-border-radius:0px 20px 20px 0px; 
+        -moz-border-radius:0px 20px 20px 0px; 
+             border-radius:0px 20px 20px 0px; 
+	}
+/* colors */
+#xsellgallery_styler_204x8x3 div.xsellgallery_footer .xsellgallery_footer,
+#xsellgallery_styler_204x8x3 div.xsellgallery_header span,
+#xsellgallery_styler_204x8x3 div.xsellgallery_inside,
+#xsellgallery_styler_204x8x3 div.xsellgallery_outline,
+#xsellgallery_styler_204x8x3 div.xsellgallery_btnleft,
+#xsellgallery_styler_204x8x3 div.xsellgallery_btnright {background-color:#d0d0d0;}
+#xsellgallery_styler_204x8x3 div.xsellgallery_footer .xsellgallery_footer,
+#xsellgallery_styler_204x8x3 div.xsellgallery_footer a,
+#xsellgallery_styler_204x8x3 div.xsellgallery_header span,
+#xsellgallery_styler_204x8x3 div.xsellgallery_header a,
+#xsellgallery_styler_204x8x3 div.xsellgallery_btnleft span,
+#xsellgallery_styler_204x8x3 div.xsellgallery_btnright span {color:black;}
+#xsellgallery_styler_204x8x3 div.xsellgallery_framesm,
+#xsellgallery_styler_204x8x3 div.xsellgallery_framelg {background-color:white;}
+#xsellgallery_styler_204x8x3 div.xsellgallery_caption {color:black;}
+/* end */
