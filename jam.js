@@ -2,7 +2,7 @@
 $f(window).load(function(){
 	$f.ajax({
 	method : "post",
-	url : "https://cdn.rawgit.com/danish1u/Maureen-eBay/master/new.php",
+	url : "https://cdn.jsdelivr.net/gh/danish1u/Maureen-eBay/new.php",
 	async:false,
 	data:"newarrival=1",
 	success: function(result){
